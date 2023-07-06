@@ -1,2 +1,2 @@
-# wellyngton.github.io
+# wellyngton.dev
 Personal site
